@@ -52,7 +52,5 @@ O objetivo desta análise é identificar os padrões de comportamento que levam 
 
 <br>
 
-**Lifetime Value - Clientes de risco x fidelizados**
-
 <img width="846" height="592" alt="image" src="https://github.com/user-attachments/assets/031608e1-8b14-4121-8cb7-569d0caa1066" />
 
